@@ -2,6 +2,9 @@ Welcome to Scratch Contributors!
 
 » This studio celebrates everyone who has contributed to Scratch through translations, encouraging innovation, and other contributions to Scratch. «
 
+Visit our official nwq website!
+https://scratch-contributors.github.io/
+
 Learn about our studio!
 https://scratch.mit.edu/discuss/topic/517704/
 
@@ -15,7 +18,7 @@ https://scratch.mit.edu/discuss/topic/516658/
 Meet our Contributors! 
 https://scratch.mit.edu/discuss/topic/516290/ 
 
-Visit out official website!
+Visit our official website!
 https://scratch-contributors.github.io/
 
 Visit the Special Actions Studio to discuss actions for this studio: 
