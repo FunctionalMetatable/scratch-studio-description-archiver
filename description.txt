@@ -2,7 +2,8 @@ Welcome to Scratch Contributors!
 
 » This studio celebrates everyone who has contributed to Scratch through translations, encouraging innovation, and other contributions to Scratch. «
 
-Visit our brand new website! https://scratch-contributors.github.io/
+Learn about our studio!
+https://scratch.mit.edu/discuss/topic/517704/
 
 Question of the Month (QOTM):
 What part of contributing to Scratch do you like the most?
@@ -106,5 +107,7 @@ These are just a few examples, but there are plenty of other ways to help out ar
 
 Credits:
 + Inspired by @R4356th's Scratch Contributors studio: https://scratch.mit.edu/studios/26335791/
+
 + Thumbnail by @ArtsyStrawberry and @ScratchCat
+
 + Thanks to everyone who helps out around Scratch!
