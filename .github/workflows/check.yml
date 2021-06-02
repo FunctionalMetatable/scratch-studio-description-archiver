@@ -2,6 +2,8 @@ name: Check for new description edits
 on:
   schedule:
     - cron: "*/5 * * * *"
+  
+  workflow_dispatch:
 
 jobs:
   check:
