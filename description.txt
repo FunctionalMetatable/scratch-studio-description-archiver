@@ -5,9 +5,6 @@ Welcome to Scratch Contributors!
 Visit our official new website!
 https://scratch-contributors.github.io/
 
-Learn about our studio!
-https://scratch.mit.edu/discuss/topic/517704/
-
 Question of the Month (QOTM):
 What part of contributing to Scratch do you like the most?
 - Suggested by @Code_Amazing
@@ -17,9 +14,6 @@ https://scratch.mit.edu/discuss/topic/516658/
 
 Meet our Contributors! 
 https://scratch.mit.edu/discuss/topic/516290/ 
-
-Visit our official website!
-https://scratch-contributors.github.io/
 
 Visit the Special Actions Studio to discuss actions for this studio: 
 https://scratch.mit.edu/studios/29615191/comments
