@@ -52,13 +52,16 @@ Curating and Managing:
  ‣ Only Scratch Contributors can
    curate, but anyone is welcome 
    to chat!
-  ‣‣ If you would like to curate,     please state:
-    1) Where you contribute
-    2) QOTM answer
+   ‣‣ If you would like to curate,
+   please state:
+      1) Where you contribute
+      2) QOTM answer
 
-    If you are accepted, you are     highly encouraged to leave a     short bio.
+      If you are accepted, you are
+      highly encouraged to leave a
+      short bio.
 
-NOTICE: We are not accepting manager applications indefinitely.
+NOTICE: We are not accepting manager applications at the moment.
 
 ───────────────
 
