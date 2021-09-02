@@ -19,9 +19,6 @@ jobs:
         with:
           node-version: 14.x
         
-      - name: Install Dependencies
-        run: cd src && npm i
-        
       - name: Check for new description changes
         run: node src/index.js
         
